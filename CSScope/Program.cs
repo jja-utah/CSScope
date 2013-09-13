@@ -10,6 +10,7 @@ namespace CSScope
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("this is a string");
         }
     }
 }
